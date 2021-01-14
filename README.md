@@ -1,6 +1,6 @@
 # Daniel Melchor
 ## Summary 
-Hey there! My name is Daniel. I am an 18-year-old student born in Spain. I have been interested in computers from a very young age. I create projects, learn from others and do my own research.
+Hey there! :wave: My name is Daniel. I am an 18-year-old student born in Spain. I have been interested in computers from a very young age. I create projects, learn from others and do my own research.
 
 People say I am good at: communicating, meeting new people, taking initiative, and being consistent.
 
