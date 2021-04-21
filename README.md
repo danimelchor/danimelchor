@@ -16,4 +16,4 @@ Current interests: computer science, effective altruism, nutrition, financial in
 
 Random topics we can talk about: canoe trips, web development, animal suffering, American college experience, politics, religion, blockchain…
 
-Check [my website](https://danielmelchor.com) for more information about me :)!
+## Check out [my website](https://danielmelchor.com) for more information about me :)!
