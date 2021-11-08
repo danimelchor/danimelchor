@@ -9,7 +9,7 @@ Master's degree program while there.
 During the summer, I have worked as a Machine Learning developer at Intelygenz,
 an international company focused on process automation using AI.
 
-My GitHub organizations: [Decentrapass](https://github.com/Decentrapass) and [BUNexus](https://github.com/Boston-University-Nexus)
+My GitHub organizations: [Decentrapass](https://github.com/Decentrapass) and [BU Nexus](https://github.com/Boston-University-Nexus)
 
 Current  interests:  computer  science,   effective  altruism,  nutrition,  financial
 independence, cryptocurrencies.
