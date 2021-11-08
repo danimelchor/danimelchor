@@ -16,5 +16,5 @@ independence, cryptocurrencies.
 
 Random  topics  we  can  talk  about: canoe trips, web development, animal suffering,
 American college experience, politics, religion, blockchain…
-```
+
 ##### You should check out [my website](https://danielmelchor.com) for more information about me :)
