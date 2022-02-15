@@ -24,6 +24,7 @@ American college experience, politics, religion, blockchain…
 ## Connect
 [<img align="left" alt="codeSTACKr.com" width="40px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+<br>
 
 ##### You should check out [my website](https://danielmelchor.com) for more information about me :)
 
