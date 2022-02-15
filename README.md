@@ -24,9 +24,11 @@ American college experience, politics, religion, blockchain…
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimelchor&layout=compact&theme=material-palenight" height="150"></img>
 
 ## Connect
-[<img align="left" width="30px" src="http://www.buddingbean.com/wp-content/uploads/2016/08/website-icon.png" />][website]
-[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/purple/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C692E8/link-xxl.png" />][website]
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C692E8/linkedin-3-xxl.png" />][linkedin]
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C692E8/twitter-xxl.png" />][twitter]
 <br>
 
 [website]: https://danielmelchor.com/
 [linkedin]: https://www.linkedin.com/in/danimelchor/
+[twitter]: https://twitter.com/danii672/
