@@ -20,12 +20,12 @@ Random  topics  we  can  talk  about: canoe trips, web development, animal suffe
 American college experience, politics, religion, blockchain…
 
 ## Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=danimelchor&show_icons=true&show_icons=true&theme=dark" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimelchor&layout=compact&theme=dark" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=danimelchor&show_icons=true&show_icons=true&theme=material-palenight" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimelchor&layout=compact&theme=material-palenight" height="150"></img>
 
 ## Connect
-[<img align="left" width="30px" src="https://www.pinclipart.com/picdir/big/98-989061_svg-link-clip-art-royalty-free-download-link.png" />][website]
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" width="30px" src="http://www.buddingbean.com/wp-content/uploads/2016/08/website-icon.png" />][website]
+[<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/purple/linkedin-3-xxl.png" />][linkedin]
 <br>
 
 [website]: https://danielmelchor.com/
