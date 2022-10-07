@@ -2,14 +2,11 @@
 
 Hey there!
 
-I'm  a  19-year-old  student  from   Spain   studying  at   Boston University.   I am
-pursuing a major in Computer Science,  and,  most  likely,  completing an accelerated
-Master's degree program while there.
+I'm  a  20-year-old  student  from   Spain   studying  at   Boston University.   I am
+pursuing a major in Computer Science with the expected (early) graduation date of May 2023.
 
-Last summer, I worked as a Machine Learning developer at Intelygenz,
-an international company focused on process automation using AI.
-
-I am currently working as a SWE at BastionZero during the academic year, and as a SWE intern at Stripe during the summer.
+Last semester, I worked as a SWE at BastionZero. And this summer, I worked as a SWE intern at Stripe. I will be joining Stripe
+as a fulltime employee on Summer 2023.
 
 My GitHub organizations: [Decentrapass](https://github.com/Decentrapass) and [BU Nexus](https://github.com/Boston-University-Nexus)
 
