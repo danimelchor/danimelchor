@@ -10,16 +10,6 @@ as a fulltime employee on Summer 2023.
 
 My GitHub organizations: [Decentrapass](https://github.com/Decentrapass), [BU Nexus](https://github.com/Boston-University-Nexus), and [Alfred Assistant](https://github.com/Alfred-Assistant)
 
-Current  interests:  computer  science,   effective  altruism,  nutrition,  financial
-independence, cryptocurrencies.
-
-Random  topics  we  can  talk  about: canoe trips, web development, animal suffering,
-American college experience, politics, religion, blockchain…
-
-## Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=danimelchor&show_icons=true&show_icons=true&theme=material-palenight" height="150"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimelchor&layout=compact&theme=material-palenight" height="150"></img>
-
 ## Connect
 [<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C692E8/link-xxl.png" />][website]
 [<img align="left" width="30px" src="https://www.iconsdb.com/icons/preview/color/C692E8/linkedin-3-xxl.png" />][linkedin]
