@@ -2,8 +2,6 @@
 
 Hey there!
 
-I'm  a  20-year-old  student  from   Spain   studying  at   Boston University.   I am
-pursuing a major in Computer Science with the expected (early) graduation date of May 2023.
+I'm Daniel. I am programmer from Spain currently living in NYC. I like building new things, fixing existing ones, and breaking perfectly functioning ones.
 
-Last semester, I worked as a SWE at BastionZero. And this summer, I worked as a SWE intern at Stripe. I will be joining Stripe
-as a fulltime employee on Summer 2023.
+I'm currently working for Stripe and recently graduated from Boston University.
