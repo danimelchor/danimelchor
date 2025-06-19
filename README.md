@@ -1,7 +1,7 @@
 # Daniel Melchor
 
-Hey there!
+Hi there!
 
-I'm Daniel. I am programmer from Spain currently living in NYC. I like building new things, fixing existing ones, and breaking perfectly functioning ones.
+My name is Daniel Melchor and I'm one of many software engineers living in New York city. I now work for Jane Street, where I'm working on making markets more efficient and tackling challenging problems alongside some the smartest people in the world (way smarter than me, at least).
 
-I'm currently working for Stripe and recently graduated from Boston University.
+I'm particularly interested in topics related to probability & statistics, computer science, reasoning, and altruism. I also enjoy rock climbing, and working out.
